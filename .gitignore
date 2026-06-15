@@ -1,0 +1,32 @@
+# --- IDEs ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Backend (Go) ---
+backend/bin/
+backend/out/
+backend/*.exe
+backend/*.test
+backend/__debug_bin
+backend/.env
+
+# --- Frontend (Node/React) ---
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# --- Sistema/Docker ---
+.DS_Store
+db-data/
+postgres_data/
+.env
