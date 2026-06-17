@@ -1,4 +1,4 @@
-module github.com/BrunoCarvalhoCagni/taskflow-backend
+module github.com/BrunoCarvalhoCagni/taskflow
 
 go 1.25.0
 
