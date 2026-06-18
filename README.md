@@ -3,4 +3,5 @@
 
 This is a **Fullstack** project using **Go (Golang)** on the backend and **React + TypeScript** on the frontend, focusing on high performance and scalability.
 
+Use the .env.example files provided to use your own enviroment variables
 ---
